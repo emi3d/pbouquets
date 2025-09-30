@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Amor de mi vida",
+    "description": "Ramo de 12 rosas rojas Samuray premium, con wrapping rojo elegante, incluye envio gratis.",
+    "price": 249,
+    "image": "images/redBouquet.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Amor para siempre",
+    "description":  "Ramo de 12 rosas rojas Samuray premium, con wrapping blanco y poema, incluye envio gratis.",
+    "price": 249,
+    "image": "images/whiteBouquet.jpg"
+  },
+   {
+    "id": 3,
+    "name": "Amor de esta y todas mis vidas",
+    "description": "Ramo de 24 rosas rojas Samuray premium, con wrapping rojo elegante, incluye envio gratis.",
+    "price": 400,
+    "image": "images/redBouquet24.png"
+  },
+  {
+    "id": 4,
+    "name": "Amor cada segundo de la existencia",
+    "description":  "Ramo de 24 rosas rojas Samuray premium, con wrapping blanco y poema, incluye envio gratis.",
+    "price": 400,
+    "image": "images/whiteBouquet24.png"
+  },
+  {
+    "id": 5,
+    "name": "Amor buchón",
+    "description":  "Ramo de 100 rosas rojas Samuray premium, con wrapping blanco y poema, incluye envio gratis. (Anticipo requerido para el ramo de 100 rosas)",
+    "price": 900,
+    "image": "images/whiteBouquet100.png"
+  }
+ 
+]
