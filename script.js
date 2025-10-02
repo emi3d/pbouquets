@@ -1,4 +1,3 @@
-const generateBtn = document.getElementById('generateBtn');
 const userInput = document.getElementById('userInput');
 const apiKeyInput = document.getElementById('apiKey');
 const loader = document.getElementById('loader');
@@ -96,17 +95,7 @@ async function loadProducts() {
 
 
 
-function setLoading(isLoading) {
-    if (isLoading) {
-        loader.classList.remove('hidden');
-        generateBtn.disabled = true;
-        generateBtn.textContent = 'Generando...';
-    } else {
-        loader.classList.add('hidden');
-        generateBtn.disabled = false;
-        generateBtn.textContent = 'Generar Bouquet';
-    }
-}
+
 
 function displayMessage(msg) {
     message.textContent = msg;
